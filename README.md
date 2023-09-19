@@ -6,5 +6,5 @@ Nota:
 
 Necesita tener configurado 2 variables de entorno
 
-1. Variable : BucketName          Contenido:  Nombre del bucket S3 en AWS
-2. Variable : ExpiredMinutesTime  Contenido:  Tiempo en minutos que durará la URL firmada antes de expirar.
+1. Variable : BucketName (Contiene el nombre del bucket S3 en AWS).
+2. Variable : ExpiredMinutesTime (Contiene el tiempo en minutos que durará la URL firmada antes de expirar).
